@@ -1,0 +1,14 @@
+.Forma{
+  width: 400px;
+  height: 500px;
+  border: 1px solid #333;
+  border-radius: 8px;
+  position: relative;
+  padding: 16px;
+  background-color: antiquewhite;
+}
+.padre{
+text-align: center;
+position: relative;
+top: 20px;
+}

@@ -1,0 +1,22 @@
+.input{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  padding: 20px;
+  border-radius: 8px;
+
+}
+
+.buscar{
+  width: 250px;
+  height: 30px;
+  border-radius: 8px;
+ 
+}
+
+.boton{
+  padding: 7px;
+  margin: 10px;
+  border-radius: 8px;
+}
